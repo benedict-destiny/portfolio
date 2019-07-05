@@ -1,3 +1,32 @@
 body{
     background-image: url("/home/benedict/Desktop/my-first-website/IMG-20190608-WA0005.jpg");
 }
+#header{
+    color: antiquewhite;
+    font-family: Helvetica;
+    text-align: center;
+    background-color: black;
+    display:flex;
+    position: sticky;
+    top:0;
+    flex-direction: row;
+   
+}
+#nav {
+    color: antiquewhite;
+    /* text-align: center; */
+    position:relative;
+}
+li{
+    display: inline-block;
+    padding:5%;
+}
+#nav a{
+    color:white;
+    font-family: Helvetica;
+}
+a{
+    color: darkgrey;
+    text-decoration: none;
+    font-family:Helvetica;
+}
