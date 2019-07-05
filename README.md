@@ -1,7 +1,7 @@
 # My portofolio
 My name is Benedict Destiny a Moringa Prep 2019 student and this is my portofolio
 
-##How to access my website
+## How to access my website
 open terminal and paste this command without the brackets (git clone https://github.com/benedict-destiny/portofolio.git)
 extract the file afer download to access html file and open with a browser of your choice to view.
 
@@ -14,4 +14,8 @@ You are allowed to edit this work to your preferences
 ##### Licence
                                  Apache License
                            Version 2.0, January 2004
+<<<<<<< HEAD
                         http://www.apache.org/licenses/
+=======
+                        http://www.apache.org/licenses/
+>>>>>>> 476b1848b82bb70825d6092fa63be0491959a5b4
