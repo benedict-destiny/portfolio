@@ -38,3 +38,14 @@ ul.main-menu{
     display: inline;
     padding: 0 10px 0 10px;
 }
+h2{
+    text-align:center;
+    color:white;
+    font-family: Verdana;
+    font-size:90px;
+    text-decoration-line: underline;
+}
+p{
+    color:white;
+    font-size:30px;
+}
