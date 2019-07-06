@@ -1,13 +1,14 @@
 body {
     font-family: Verdana;
     background-image: url("/home/benedict/Desktop/my-first-website/background.jpg");
-
+    background-attachment: fixed;
 }
 #header{
     max-width: 4060px;
     margin: 0 auto;
-    background-color:rgb(6, 29, 44);
+    background-color:rgba(2, 18, 29, 0.562);
     padding: 1px;
+    position: sticky;
 }
 header h1{
     text-align: center;
@@ -20,7 +21,7 @@ header h1{
     text-align:center;
     line-height:32px;
     font-size:20px;
-    background-color: rgba(12, 36, 56, 0.329)
+    background-color: rgba(12, 36, 56, 0)
 }
 ul.main-menu{
     margin-top:15px;
@@ -60,6 +61,7 @@ a{
 a:hover{
     color:rgb(36, 95, 151);
 }
+
 h3{
     text-align:center;
     color:white;
