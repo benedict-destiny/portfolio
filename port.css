@@ -14,7 +14,7 @@ header h1{
     text-align: center;
     text-transform: uppercase;
     color:white;
-    text-decoration-line: unset;
+    
 }
 .main-menu{
     padding: 5px 0 5px 0;
@@ -46,6 +46,13 @@ h2{
     text-decoration-line: underline;
 }
 p{
+    text-align: center;
     color:white;
     font-size:30px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color:rgb(36, 95, 151);
 }
