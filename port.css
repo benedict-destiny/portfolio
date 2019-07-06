@@ -8,7 +8,6 @@ body {
     margin: 0 auto;
     background-color:rgb(6, 29, 44);
     padding: 1px;
-    display: sticky;
 }
 header h1{
     text-align: center;
@@ -48,12 +47,23 @@ h2{
 }
 p{
     text-align: center;
-    color:white;
+    color:rgb(6, 11, 17);
     font-size:30px;
+    max-width: 4060px;
+    margin: 0 auto;
+    background-color:rgba(162, 193, 214, 0.37);
+    padding: 1px;
 }
 a{
     color: rgb(115, 212, 236);
 }
 a:hover{
     color:rgb(36, 95, 151);
+}
+h3{
+    text-align:center;
+    color:white;
+    font-family: Verdana;
+    font-size:90px;
+    text-decoration-line: underline;
 }
