@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana;
+    background-image: url("/home/benedict/Desktop/my-first-website/IMG-20190608-WA0005.jpg");
+
+}
+#header{
+    max-width: 4060px;
+    margin: 0 auto;
+    background-color:rgb(6, 29, 44);
+    padding: 1px;
+    display: sticky;
+}
+header h1{
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    text-decoration-line: unset;
+}
+.main-menu{
+    padding: 5px 0 5px 0;
+    text-align:center;
+    line-height:32px;
+    font-size:20px;
+    background-color: rgba(12, 36, 56, 0.329)
+}
+ul.main-menu{
+    margin-top:15px;
+}
+.main-menu a{
+    text-decoration: none;
+    color:white;
+    padding:8px;
+}
+.main-menu a:hover{
+    color:rgb(17, 114, 106);
+}
+.main-menu li{
+    display: inline;
+    padding: 0 10px 0 10px;
+}
+#overlay {
+    position: fixed;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
