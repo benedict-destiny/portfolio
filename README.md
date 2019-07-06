@@ -1,4 +1,4 @@
-# My portofolio
+# My portfolio
 My name is Benedict Destiny a Moringa Prep 2019 student and this is my portofolio.
 
 ## Project
