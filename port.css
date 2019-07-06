@@ -30,6 +30,7 @@ ul.main-menu{
     text-decoration: none;
     color:white;
     padding:8px;
+    text-transform: uppercase;
 }
 .main-menu a:hover{
     color:rgb(17, 114, 106);
@@ -51,7 +52,7 @@ p{
     font-size:30px;
 }
 a{
-    color: white;
+    color: rgb(115, 212, 236);
 }
 a:hover{
     color:rgb(36, 95, 151);
