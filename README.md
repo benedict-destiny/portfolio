@@ -5,7 +5,7 @@ My name is Benedict Destiny a Moringa Prep 2019 student and this is my portofoli
 This project is my personal portfolio. It includes all my most recent projects and my Contact information
 
 ### How to access my website
-open terminal and paste this command without the brackets (git clone https://github.com/benedict-destiny/portofolio.git)
+open terminal and paste this command without the brackets (git clone https://github.com/benedict-destiny/portfolio)
 extract the file afer download to access html file and open with a browser of your choice to view.
 
 #### HTML AND CSS
