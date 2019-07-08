@@ -8,7 +8,6 @@ body {
     margin: 0 auto;
     background-color:rgba(2, 18, 29, 0.562);
     padding: 1px;
-    position: sticky;
 }
 header h1{
     text-align: center;
