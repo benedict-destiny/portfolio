@@ -1,6 +1,6 @@
 body {
     font-family: Verdana;
-    background-image: url("/home/benedict/Desktop/my-first-website/background.jpg");
+    background-image: url("..background.jpg");
     background-attachment: fixed;
 }
 #header{
