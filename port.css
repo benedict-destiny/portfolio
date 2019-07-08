@@ -1,6 +1,6 @@
 body {
     font-family: Verdana;
-    background-image: url("me.png");
+    background-image: url("css/background.jpg");
     background-attachment: fixed;
 }
 #header{
@@ -8,12 +8,12 @@ body {
     margin: 0 auto;
     background-color:rgba(2, 18, 29, 0.562);
     padding: 1px;
-    position: sticky;
 }
 header h1{
     text-align: center;
     text-transform: uppercase;
     color:white;
+    position: sticky;
     
 }
 .main-menu{
@@ -68,4 +68,10 @@ h3{
     font-family: Verdana;
     font-size:90px;
     text-decoration-line: underline;
+}
+#proj{
+    text-align: center;
+    font-size: 60px;
+    color: aqua;
+    padding:5 5 5 5px;
 }
