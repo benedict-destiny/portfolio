@@ -12,9 +12,7 @@ body {
 header h1{
     text-align: center;
     text-transform: uppercase;
-    color:white;
-    position: sticky;
-    
+    color:white;    
 }
 .main-menu{
     padding: 5px 0 5px 0;
