@@ -14,7 +14,7 @@ header h1{
     text-transform: uppercase;
     color:white;
     position: sticky;
-    
+
 }
 .main-menu{
     padding: 5px 0 5px 0;
@@ -34,6 +34,8 @@ ul.main-menu{
 }
 .main-menu a:hover{
     color:rgb(17, 114, 106);
+    background-color: white;
+    border-radius: 20px;
 }
 .main-menu li{
     display: inline;
